@@ -4,7 +4,7 @@ This repo has codeblocks editor themes. I do not own these themes or the files. 
 
 To install on different OS, follow instructions on the site mentioned above or watch this video : https://www.youtube.com/watch?v=H-7uVSrnrnU
 
-On ubuntu, I did these things to install:
+On ubuntu, I did these things to install: Download the 'theme.conf' file in this repo
 
 1. Exit CodeBlocks if already opened.
 2. Open terminal and type, cb_share_config
